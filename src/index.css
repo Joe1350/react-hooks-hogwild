@@ -9,6 +9,38 @@ body {
   text-align: center;
 }
 
+.pig {
+  width: 90%;
+}
+
+label {
+  margin: 5px;
+}
+
+#toggle {
+  height: 25px;
+}
+
+#flex {
+  display: flex;
+}
+
+#details {
+  margin-top: 50px;
+  margin-left: 20%;
+  position: fixed;
+}
+
+#pig-tiles {
+  width: 30%;
+}
+
+.pig-tile {
+  border: solid black 1px;
+  background-color: #F5A9BC;
+  margin: 5px;
+}
+
 .TwirlyPig {
   transition: all 3s ease-in-out;
   display: inline;
